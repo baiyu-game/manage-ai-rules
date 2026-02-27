@@ -1,5 +1,7 @@
 # manage-ai-rules
 
+English | [简体中文](README_CN.md)
+
 > A universal skill to manage AI IDE rule files across multiple platforms.
 
 Unified management of rule files across AI IDEs. Support multi-platform rule creation, modification, deletion, project initialization, and cross-IDE synchronization.
@@ -29,28 +31,28 @@ Unified management of rule files across AI IDEs. Support multi-platform rule cre
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/[username]/manage-ai-rules ~/.claude/skills/manage-ai-rules
+git clone https://github.com/baiyu-game/manage-ai-rules ~/.claude/skills/manage-ai-rules
 ```
 
 ### Trae
 
 ```bash
 mkdir -p ~/.trae/skills
-git clone https://github.com/[username]/manage-ai-rules ~/.trae/skills/manage-ai-rules
+git clone https://github.com/baiyu-game/manage-ai-rules ~/.trae/skills/manage-ai-rules
 ```
 
 ### Cursor
 
 ```bash
 mkdir -p ~/.cursor/skills
-git clone https://github.com/[username]/manage-ai-rules ~/.cursor/skills/manage-ai-rules
+git clone https://github.com/baiyu-game/manage-ai-rules ~/.cursor/skills/manage-ai-rules
 ```
 
 ### Windsurf
 
 ```bash
 mkdir -p ~/.windsurf/skills
-git clone https://github.com/[username]/manage-ai-rules ~/.windsurf/skills/manage-ai-rules
+git clone https://github.com/baiyu-game/manage-ai-rules ~/.windsurf/skills/manage-ai-rules
 ```
 
 ## Usage
